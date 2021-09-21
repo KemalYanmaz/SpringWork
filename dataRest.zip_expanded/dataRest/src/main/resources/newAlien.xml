@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalaliens>
+xmlns:tns="http://www.kemalyanmaz.com/AlienSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.kemalyanmaz.com/AlienSchema AlienSchema.xsd ">
+  
+<tns:alien aid="A1">
+	<tns:name>Kemal</tns:name>
+	<tns:salary>3000</tns:salary>
+</tns:alien>
+<tns:alien aid="A2">
+	<tns:name>Kemal</tns:name>
+	<tns:salary>3000</tns:salary>
+</tns:alien>
+
+<tns:alien aid="A3">
+	<tns:name>Kemal</tns:name>
+	<tns:salary>3000</tns:salary>
+</tns:alien>
+
+<tns:alien aid="A4">
+	<tns:name>Kemal</tns:name>
+	<tns:salary>3000</tns:salary>
+</tns:alien>
+
+<tns:alien aid="A5">
+	<tns:name>Kemal</tns:name>
+	<tns:salary>3000</tns:salary>
+</tns:alien>
+
+</tns:globalaliens>
