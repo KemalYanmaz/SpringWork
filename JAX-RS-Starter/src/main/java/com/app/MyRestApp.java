@@ -6,5 +6,4 @@ import javax.ws.rs.core.Application;
 @ApplicationPath("/app")
 public class MyRestApp extends Application{
 	
-	
 }
